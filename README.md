@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **juliano1/juliano1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-Would you like to find me?
+Would you like to find me? 📫 How to reach me: ...
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/julianojjpp)](https://twitter.com/julianojjpp)
